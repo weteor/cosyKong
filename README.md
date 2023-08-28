@@ -2,7 +2,7 @@
 
 30 or 36 key 3row keyboards with col stagger
 
-![top](img/both_top.png)
+![top](img/cosy_top.png)
 
 ## Features
 
@@ -41,4 +41,4 @@ If you would like to send me a tip, you could do it [here](https://ko-fi.com/wet
 
 ### more pictures
 
-![top](img/cosy_top.png)
+![top](img/both_top.png)
